@@ -48,8 +48,10 @@ void runFFCache() {
 }
 
 int main() {
+
     int instances;
     cin >> instances;
     while(instances--) runFFCache();
+
     return 0; 
 }
